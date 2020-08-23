@@ -10,7 +10,6 @@ class NotDMChannel(Exception):
     pass
 
 
-
 class IncompletePreparing(Exception):
     pass
 
